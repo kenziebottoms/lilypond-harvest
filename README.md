@@ -1,0 +1,1 @@
+Lilypond syntax practice using [John Mackey](http://www.ostimusic.com/Bio.php)'s [Harvest](http://www.ostimusic.com/TbnCto-media.php).
